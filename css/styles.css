@@ -1,0 +1,19 @@
+body {
+    background-color: #61b15a;
+}
+
+.button {
+    display: grid;
+    grid-column: auto;
+    padding: 10px;
+}
+
+.button:hover {
+    background-color: #f5b461;
+}
+
+.buttonbox {
+    margin-top: 25%;
+    display: flex;
+    justify-content: center;
+}
